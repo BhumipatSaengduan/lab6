@@ -7,7 +7,7 @@ double deg2rad(double x) {
 }
 
 double rad2deg(double x) {
-    return x * 180.0 / M_PI;5
+    return x * 180.0 / M_PI;
 }
 
 double findXComponent(double l1, double l2, double a1, double a2) {
